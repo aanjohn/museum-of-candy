@@ -16,7 +16,7 @@ https://aanjohn.github.io/museum-of-candy/
 
 ## 📸 Preview
 
-(Add a screenshot of your website here)
+![Museum of Candy Preview](museum-preview.png)
 
 ## 📂 Features
 
